@@ -8,7 +8,7 @@
 
 body{
     font-family: "New Amsterdam", sans-serif;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
     background-color: var(--dark3);
     height: 100vh;
 }
@@ -192,7 +192,7 @@ span{
 .terceira-section > div p{
     max-width: 600px;
     color: var(--white);
-    text-align: justify;
+    text-align: center;
 }
 
 .quarta-section{
